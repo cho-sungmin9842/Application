@@ -111,5 +111,4 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener  {
             Snackbar.make(binding.root,"초기화 실패!",Snackbar.LENGTH_SHORT).show()
         }
     }
-
 }
